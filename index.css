@@ -9,10 +9,11 @@ table, th, td {
 #heading{
     text-align: center;
     letter-spacing: 10px;
+    padding-bottom: 3px;
     font-style: italic;
     background-color: darkred;
     color: beige;
-    box-shadow: 1px 15px #CC0000;
+    box-shadow: 1px 9px #CC0000;
 }
 
 
